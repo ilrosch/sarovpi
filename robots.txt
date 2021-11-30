@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://ilrosch.github.io/sarovpi/
